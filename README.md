@@ -1,11 +1,13 @@
 # netflix-movie-duration
 
-## Start docker desktop.
+## Start docker desktop  
+
 ## Run the following command in local terminal to run local instance of docker with notebook / Python3 workspace:
 ```
 docker run -p 8888:8888 -v ~/<enter_workspace_path_here>:/home/jovyan jupyter/minimal-notebook
 ```
-## Check container logs and go to suggested URL
+## Check container logs and go to suggested URL  
+
 ## Use pip to install any packages needed via new code cell at the start of notebook:
 ```
 !pip install pandas
