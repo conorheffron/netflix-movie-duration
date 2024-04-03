@@ -1,5 +1,7 @@
 # netflix-movie-duration
 
+See full notebook analysis [here](https://github.com/conorheffron/netflix-movie-duration/blob/main/notebook.ipynb)
+
 > Start docker desktop  
 
 > Run the following command in local terminal to run local instance of docker with notebook / Python3 workspace:
