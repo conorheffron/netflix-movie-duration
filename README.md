@@ -1,6 +1,6 @@
 # netflix-movie-duration
 
-See full notebook analysis [here](https://github.com/conorheffron/netflix-movie-duration/blob/main/notebook.ipynb)
+See full notebook [here](https://github.com/conorheffron/netflix-movie-duration/blob/main/notebook.ipynb)
 
 > Start docker desktop  
 
